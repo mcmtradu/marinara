@@ -1,4 +1,3 @@
-
 # Create Chrome extension package (.zip).
 package: validate-messages
 	ruby -Iscripts scripts/make-package.rb
